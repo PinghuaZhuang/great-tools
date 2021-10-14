@@ -8,7 +8,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 ## 目录
 
 + [IDE][2]
-+ [TOOLS][3]
++ [工具][3]
 + [娱乐][17]
 
 
@@ -17,37 +17,37 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 |      Apps       |                         Description                          |                URL                 |
 | :-------------: | :----------------------------------------------------------: | :--------------------------------: |
-|     VSCode      |   微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款   |        [下载][4]\|[插件][5]        |
+|     VSCode      |   微软出品的轻量级代码编辑器，近年新兴编辑器中最优秀的一款   |      [下载][4]  \|  [插件][5]      |
 |      Cmder      |    为 CMD / PowerShell 提供绝佳用户体验，Windows 开发必备    |           [下载&介绍][6]           |
-|     ConEmu      |          另一款极具特色的 CMD / PowerShell 增强工具          |        [下载][7]\|[介绍][8]        |
+|     ConEmu      |          另一款极具特色的 CMD / PowerShell 增强工具          |      [下载][7]  \|  [介绍][8]      |
 | Git for Windows |                一键安装，同时获得 Git 和 Bash                |             [下载][9]              |
-|     Xshell      |              非常优秀的终端软件，连接服务器必备              |       [下载][10]\|[介绍][11]       |
+|     Xshell      |              非常优秀的终端软件，连接服务器必备              |     [下载][10]  \|  [介绍][11]     |
 |   SourceTree    |        跨平台图形化界面的 Git 工具，提升效率的好帮手         |          [下载&介绍][12]           |
 |  GitHubDesktop  |               图形化界面的 Git 工具, 简约实用                |          [下载&介绍][13]           |
-|     Typora      |             markdown编辑器, 支持多平台, 界面好看             |       [下载][21]\|[介绍][22]       |
+|     Typora      |             markdown编辑器, 支持多平台, 界面好看             |     [下载][21]  \|  [介绍][22]     |
 |     Postman     |         开发过程中调试请求接口的工具, 支持cookies等          |             [下载][29]             |
 |    Notepad++    |                       小气的文本编辑器                       |             [下载][31]             |
-|     whistle     | 基于Node实现的跨平台web调试代理工具，类似的工具有Windows平台上的 [Fiddler](http://www.telerik.com/fiddler/) | [下载](http://wproxy.org/whistle/) |
+|     whistle     | 基于Node实现的跨平台web调试代理工具，类似的工具有Windows平台上的 [Fiddler][37] | [下载][38] |
 
 *[返回目录][32]*
 
 
 
-## TOOLS
+## 工具
 
 |           Apps            |                   Description                   |          URL           |
 | :-----------------------: | :---------------------------------------------: | :--------------------: |
-|  Syncfusion Metro Studio  | 可以直接导出 SVG / XAML 的免费 Metro 风格图标库 | [下载][14]\|[介绍][15] |
+|  Syncfusion Metro Studio  | 可以直接导出 SVG / XAML 的免费 Metro 风格图标库 | [下载][14]  \|  [介绍][15] |
 |     Beyond Compare 4      |              最好用的文件对比软件               |       [下载][16]       |
 |        everything         |                  快速搜索文件                   |       [下载][18]       |
-| Internet Download Manager |         支持多线程下载( 网盘直接下载 )          |       [下载][20]       |
-|         Snipaste          |               兼具截图和贴图功能                |       [下载][30] \| [github][34]      |
+| Internet Download Manager |         支持多线程下载( 百度网盘直接下载 )        |       [下载][20]       |
+|         Snipaste          |               兼具截图和贴图功能                |      [下载][30]  \|  [github][34]      |
 |         TeamViewer        |               电脑远程连接的工具                |       [下载][33]       |
 | 火绒安全 |                       电脑安全管理                       | [下载][35] |
 | ScreenToGif | 屏幕gif录屏 | [下载][36] |
-| faststone | 图片查看工具. 会快些. | [下载](https://www.faststone.org/FSIVDownload.htm) |
-| imageglass | 图片查看工具. 好看会慢些. | [下载](https://imageglass.org/release/imageglass-8-2-6-6-june-32#downloads) |
-| geek | 轻巧使用的软件卸载工具 | [下载](https://geekuninstaller.com/download) |
+| faststone | 图片查看工具. 会快些. | [下载][39] |
+| imageglass | 图片查看工具. 好看会慢些. | [下载][43] |
+| Uninstall Tool | 是一款非常给力的卸载工具。可以帮你有效的帮你将软件卸载之后还会扫描软件残留的垃圾，比如注册表和其他文件，将它彻底从系统中删除掉。 | [免安装绿色版下载][42]  提取码: `rd38`  \|  [官方下载][41] |
 
 *[返回目录][32]*
 
@@ -59,10 +59,10 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 | :----------------: | :--------------------------------------------------: | :-------------------------------------: |
 | foobaka alpha dark | 基于foobaka2000修改小巧实用的音乐播放器, 支持DIY界面 |               [下载][19]                |
 |     HaloRadio      |          一个小清新的豆瓣每日私人歌单客户端          |               [下载][25]                |
-|      Dopamine      |        简洁高效的本地音乐播放器, window10主题        |         [下载][28]\|[介绍][28]          |
-|     PotPlayer      |             一款用心在做的全能视频播放器             |         [下载][23]\|[介绍][24]          |
-|       Steam        |           PC 上无可替代的数字游戏发行平台            |         [下载][26]\|[介绍][27]          |
-|       小黑屋       |              有趣小巧的网页版文字游戏                | [网站](http://lab.mkblog.cn/adarkroom/) |
+|      Dopamine      |        简洁高效的本地音乐播放器, window10主题        |       [下载][28]  \|  [介绍][28]        |
+|     PotPlayer      |             一款用心在做的全能视频播放器             |       [下载][23]  \|  [介绍][24]        |
+|       Steam        |           PC 上无可替代的数字游戏发行平台            |       [下载][26]  \|  [介绍][27]        |
+|       小黑屋       |               有趣小巧的网页版文字游戏               | [网站][40] |
 
 *[返回目录][32]*
 
@@ -72,7 +72,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 [1]: http://i.imgur.com/waCNjA2.png
 [2]: #IDE
-[3]: #TOOLS
+[3]: #工具
 [4]: https://code.visualstudio.com/download
 [5]: https://marketplace.visualstudio.com/VSCode
 [6]: http://cmder.net/
@@ -105,5 +105,11 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [33]: https://www.teamviewer.com/zhcn/credentials/free-for-personal-use/
 [34]: https://github.com/Snipaste/feedback
 [35]: https://www.huorong.cn/
-
 [36]: https://www.screentogif.com/
+[37]: http://www.telerik.com/fiddler/
+[38]: http://wproxy.org/whistle/
+[39]: https://www.faststone.org/FSIVDownload.htm
+[40]: http://lab.mkblog.cn/adarkroom/
+[41]: https://crystalidea.com/uninstall-tool/download
+[42]: https://pan.baidu.com/s/1GArLEtZSO-FAhMpEYXiCSg
+[43]: https://imageglass.org/release/imageglass-8-2-6-6-june-32#downloads
