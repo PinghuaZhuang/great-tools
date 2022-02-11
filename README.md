@@ -39,14 +39,15 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 | :-----------------------: | :---------------------------------------------: | :--------------------: |
 |     Beyond Compare 4      |              最好用的文件对比软件               |       [下载][16]       |
 |        everything         |                  快速搜索文件                   |       [下载][18]       |
-| Internet Download Manager |         支持多线程下载( 百度网盘直接下载 )        |       [下载][20]       |
+| Internet Download Manager |         支持多线程下载(百度网盘直接下载)        |       [下载][20]       |
 |         Snipaste          |               兼具截图和贴图功能                |      [下载][30]  \|  [github][34]      |
 |         TeamViewer        |               电脑远程连接的工具                |       [下载][33]       |
 | 火绒安全 |                       电脑安全管理                       | [下载][35] |
 | ScreenToGif | 屏幕gif录屏 | [下载][36] |
 | faststone | 图片查看工具. 会快些. | [下载][39] |
-| imageglass | 图片查看工具. 好看会慢些. | [下载][43] |
+| imageglass | 图片查看工具. 好看会慢些. | [下载][43](推荐) |
 | Uninstall Tool | 是一款非常给力的卸载工具。可以帮你有效的帮你将软件卸载之后还会扫描软件残留的垃圾，比如注册表和其他文件，将它彻底从系统中删除掉。 | [免安装绿色版下载][42]  提取码: `rd38`  \|  [官方下载][41] |
+| 7-zip | 高效的压缩工具 | [官方下载][7-zip] |
 
 *[返回目录][32]*
 
@@ -112,3 +113,4 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [41]: https://crystalidea.com/uninstall-tool/download
 [42]: https://pan.baidu.com/s/1GArLEtZSO-FAhMpEYXiCSg
 [43]: https://imageglass.org/release/imageglass-8-2-6-6-june-32#downloads
+[7-zip]: https://www.7-zip.org/
