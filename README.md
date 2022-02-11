@@ -37,7 +37,6 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 |           Apps            |                   Description                   |          URL           |
 | :-----------------------: | :---------------------------------------------: | :--------------------: |
-|  Syncfusion Metro Studio  | 可以直接导出 SVG / XAML 的免费 Metro 风格图标库 | [下载][14]  \|  [介绍][15] |
 |     Beyond Compare 4      |              最好用的文件对比软件               |       [下载][16]       |
 |        everything         |                  快速搜索文件                   |       [下载][18]       |
 | Internet Download Manager |         支持多线程下载( 百度网盘直接下载 )        |       [下载][20]       |
