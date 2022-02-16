@@ -4,14 +4,15 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 
 
-
 ## 目录
+
+### Software
 
 + [IDE][2]
 + [工具][3]
 + [娱乐][17]
 
-
++ [Web Plugins](./web-plugins.md)
 
 ## IDE
 
