@@ -48,3 +48,6 @@
 + [polyglot.js](https://github.com/airbnb/polyglot.js): 轻量级国际化.
 
 ## 自动化
+
++ [puppeteer](https://github.com/puppeteer/puppeteer): node 环境启动 Chrome or Chromium.
++ [cypress](https://github.com/cypress-io/cypress): Fast, easy and reliable testing for anything that runs in a browser.
