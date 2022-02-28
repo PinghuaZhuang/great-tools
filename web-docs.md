@@ -1,6 +1,6 @@
-# Web Plugins
+# Web Docs
 
-记录web开发的一些工具。
+记录web开发的一些工具/案例。
 
 ## 目录
 
@@ -10,12 +10,15 @@
 + [路由](#路由)
 + [低代码平台案例](#低代码平台案例)
 + [国际化](#国际化)
++ [自动化](#自动化)
++ [校验](#校验)
 
 ## 数据存储/处理
 
 + [localforage](http://localforage.docschina.org/): `localForage` 是一个 JavaScript 库，通过简单类似 `localStorage` API 的异步存储来改进你的 Web 应用程序的离线体验。它能存储多种类型的数据，而不仅仅是字符串。(IndexDB, WebSQL.)
 + [number-precision](): 解决`js`计算丢失进度的问题.
 + [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema): Construct React elements from JSON by mapping JSON definitions to React components.
++ [vjsf](https://koumoul-dev.github.io/vuetify-jsonschema-form/latest/getting-started): VJSF is a library to create forms for [Vue.js](https://vuejs.org/) / [Vuetify](https://vuetifyjs.com/) applications in a declarative manner using annotated [JSON Schemas](https://json-schema.org/).
 
 ## 动画工具/特效
 
@@ -51,3 +54,9 @@
 
 + [puppeteer](https://github.com/puppeteer/puppeteer): node 环境启动 Chrome or Chromium.
 + [cypress](https://github.com/cypress-io/cypress): Fast, easy and reliable testing for anything that runs in a browser.
+
+## 校验
+
++ [prop-types](https://github.com/facebook/prop-types): 校验字段类型.
+
+## 其他
