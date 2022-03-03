@@ -26,6 +26,7 @@
 + [mojs](https://github.com/mojs/mojs): a javascript motion graphics library that is a **fast, retina ready, modular and open source**.
 + [Sortable](https://github.com/SortableJS/Sortable): 拖拉拽效果.
 + [packery](https://github.com/metafizzy/packery): Packery is a JavaScript library and jQuery plugin that makes gapless and draggable layouts.
++ [popper](https://popper.js.org/): Tooltips, popovers, dropdowns, menus, and more.
 
 ## 性能优化
 
@@ -58,5 +59,3 @@
 ## 校验
 
 + [prop-types](https://github.com/facebook/prop-types): 校验字段类型.
-
-## 其他
