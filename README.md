@@ -9,7 +9,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 + [IDE][2]
 + [工具][3]
 + [娱乐][17]
-+ [Web Docs](./web-docs.md)
++ [JavaScript Plugins](./JavaScriptPlugins.md)
++ [特效](https://pinghuazhuang.github.io/animation-record/)
 
 ## IDE
 
