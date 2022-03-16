@@ -10,6 +10,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 + [工具][3]
 + [娱乐][17]
 + [JavaScript Plugins](./JavaScriptPlugins.md)
++ [在线工具](./OnlineTools.md)
 + [特效](https://pinghuazhuang.github.io/animation-record/)
 
 ## IDE
@@ -47,6 +48,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 | imageglass | 图片查看工具. 好看会慢些. | [下载][43](推荐) |
 | Uninstall Tool | 是一款非常给力的卸载工具。可以帮你有效的帮你将软件卸载之后还会扫描软件残留的垃圾，比如注册表和其他文件，将它彻底从系统中删除掉。 | [免安装绿色版下载][42]  提取码: `rd38`  \|  [官方下载][41] |
 | 7-zip | 高效的压缩工具 | [官方下载][7-zip] |
+| whistle | 基于 **Node** 实现的跨平台web调试代理工具，类似的工具有Windows平台上的[Fiddler](http://www.telerik.com/fiddler/) | [文档](https://wproxy.org/whistle/) |
 
 *[返回目录][32]*
 

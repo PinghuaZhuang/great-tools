@@ -1,4 +1,4 @@
-# Web Docs
+# JavaScript Plugins
 
 记录web开发的一些工具/案例。
 
