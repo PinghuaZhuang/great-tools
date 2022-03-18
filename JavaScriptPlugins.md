@@ -8,10 +8,8 @@
 + [动画工具/特效](#动画工具/特效)
 + [性能优化](#性能优化)
 + [路由](#路由)
-+ [低代码平台案例](#低代码平台案例)
 + [国际化](#国际化)
 + [自动化](#自动化)
-+ [校验](#校验)
 
 ## 数据存储/处理
 
@@ -42,11 +40,6 @@
 
 + [dotenv](https://github.com/motdotla/dotenv): 从`.env`读取环境变量.
 
-## 低代码平台案例
-
-+ [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form): 基于 Vue2 / Vue3、 [JSON Schema](https://json-schema.org/understanding-json-schema/index.html) 生成带完整校验的Form表单.
-+ [vuetify-form-generator](https://github.com/herodotus-cloud/vuetify-form-generator): 表单设计器&代码生成器.
-
 ## 国际化
 
 + [polyglot.js](https://github.com/airbnb/polyglot.js): 轻量级国际化.
@@ -55,7 +48,3 @@
 
 + [puppeteer](https://github.com/puppeteer/puppeteer): node 环境启动 Chrome or Chromium.
 + [cypress](https://github.com/cypress-io/cypress): Fast, easy and reliable testing for anything that runs in a browser.
-
-## 校验
-
-+ [prop-types](https://github.com/facebook/prop-types): 校验字段类型.
