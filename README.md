@@ -50,6 +50,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 | 7-zip | 高效的压缩工具 | [官方下载][7-zip] |
 | whistle | 基于 **Node** 实现的跨平台web调试代理工具，类似的工具有Windows平台上的[Fiddler](http://www.telerik.com/fiddler/) | [文档](https://wproxy.org/whistle/) |
 | LICEcap | 免费小巧的录屏软件 | [官网下载](https://www.cockos.com/licecap/) |
+| screentogif | 免费开源的 GIF 制作工具 | [官网下载](https://www.screentogif.com/) |
 
 *[返回目录][32]*
 
