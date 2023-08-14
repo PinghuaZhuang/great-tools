@@ -22,6 +22,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 |     ConEmu      |          另一款极具特色的 CMD / PowerShell 增强工具          |      [下载][7]  \|  [介绍][8]      |
 | Git for Windows |                一键安装，同时获得 Git 和 Bash                |             [下载][9]              |
 |     Xshell      |              非常优秀的终端软件，连接服务器必备              |     [下载][10]  \|  [介绍][11]     |
+|      Xftp       |          非常优秀的终端软件，连接服务器, 上传文件必备          |            [下载][xftp]            |
 |   SourceTree    |        跨平台图形化界面的 Git 工具，提升效率的好帮手         |          [下载&介绍][12]           |
 |  GitHubDesktop  |               图形化界面的 Git 工具, 简约实用                |          [下载&介绍][13]           |
 |     Typora      |             markdown编辑器, 支持多平台, 界面好看             |     [下载][21]  \|  [介绍][22]     |
@@ -82,8 +83,8 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [7]: https://www.fosshub.com/ConEmu.html
 [8]: https://conemu.github.io/
 [9]: https://git-scm.com/downloads
-[10]: http://www.xshellcn.com/xiazai.html
-[11]: http://www.xshellcn.com/xshell.html
+[10]: https://www.xshell.com/zh/free-for-home-school/
+[11]: https://www.xshell.com/zh/xshell/
 [12]: https://www.sourcetreeapp.com/
 [13]: https://desktop.github.com/
 [14]: http://www.syncfusion.com/downloads/metrostudio
@@ -117,3 +118,4 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [42]: https://pan.baidu.com/s/1GArLEtZSO-FAhMpEYXiCSg
 [43]: https://imageglass.org/release/imageglass-8-2-6-6-june-32#downloads
 [7-zip]: https://www.7-zip.org/
+[xftp]: https://www.xshell.com/zh/free-for-home-school/
