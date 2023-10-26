@@ -6,14 +6,12 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 
 ## 目录
 
-+ [IDE][2]
++ [开发相关][2]
 + [工具][3]
 + [娱乐][17]
-+ [JavaScript Plugins](./JavaScriptPlugins.md)
 + [在线工具](./OnlineTools.md)
-+ [特效](https://pinghuazhuang.github.io/animation-record/)
 
-## IDE
+## 开发相关
 
 |      Apps       |                         Description                          |                URL                 |
 | :-------------: | :----------------------------------------------------------: | :--------------------------------: |
@@ -52,6 +50,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 | whistle | 基于 **Node** 实现的跨平台web调试代理工具，类似的工具有Windows平台上的[Fiddler](http://www.telerik.com/fiddler/) | [文档](https://wproxy.org/whistle/) |
 | LICEcap | 免费小巧的录屏软件 | [官网下载](https://www.cockos.com/licecap/) |
 | screentogif | 免费开源的 GIF 制作工具 | [官网下载](https://www.screentogif.com/) |
+| pot-desktop | 一个跨平台的划词翻译和OCR软件 | [官网下载][pot-download] \| [Github][pot] |
 
 *[返回目录][32]*
 
@@ -75,7 +74,7 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 ---
 
 [1]: http://i.imgur.com/waCNjA2.png
-[2]: #IDE
+[2]: #开发相关
 [3]: #工具
 [4]: https://code.visualstudio.com/download
 [5]: https://marketplace.visualstudio.com/VSCode
@@ -119,3 +118,5 @@ Windows 总是被人吐槽设计平庸、系统臃肿、品味低下，但 Windo
 [43]: https://imageglass.org/release/imageglass-8-2-6-6-june-32#downloads
 [7-zip]: https://www.7-zip.org/
 [xftp]: https://www.xshell.com/zh/free-for-home-school/
+[pot]: https://github.com/pot-app/pot-desktop
+[pot-download]: https://pot-app.com/download
